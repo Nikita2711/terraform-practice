@@ -1,3 +1,3 @@
-terrform-basics-code/.terraform
+.terraform
 *.tfstate
 
